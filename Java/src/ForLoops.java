@@ -8,6 +8,7 @@ public class ForLoops {
         // for loops = execute some code a CERTAIN amount of times
         //  index/counter;condition(the stop);updating
         // for(int i = 0;      i < 10;             i++){
+
         for(int i = 0; i < 0; i++){
             System.out.println(i);
         }
